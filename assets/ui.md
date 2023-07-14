@@ -32,5 +32,3 @@
 ## 3P (proceso, persona, principios de diseño)
 - Proceso (metodolía para realizar el proyecto, presupuesto, equipo de creación)
 - Persona (el usuario final del producto, entender sus necesidades, miedos y deseos)
-
-C:\Users\harar\OneDrive\Documentos\Virtual Machines\macOS Monterey
