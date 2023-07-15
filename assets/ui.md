@@ -28,6 +28,15 @@
 
 ## Principios del diseño
 - Usabilidad (facilidad de usar algo para lograr su objetivo, eficiencia, eficacia y satisfacción)
+- Unidad (elementos cercanos se consideran una unidad)
+- Teoria de la Gestalt (Encontrar sentido a cómo nuestras men¿ntes perciben las cosas como en lugar de individualmente)
+  - Semejanza
+  - Continuidad (el ojo sigue el camino visual más suave)
+  - Cierre (cuando una forma no está cerrada, la mente tiene a transmitir una forma completa)
+  - Proximidad (se perciben como unidad los elementos cercanos que comparten forma, color, tamaño o textura)
+  - Figura y fondo (se perciben los objetos separados de lo que los rodea, el fondo tiende a desaparecer)
+  - Simetría y orden (los elementos con simetría se perciben como un grupo)
+  - Dirección común
 
 ## 3P (proceso, persona, principios de diseño)
 - Proceso (metodolía para realizar el proyecto, presupuesto, equipo de creación)
