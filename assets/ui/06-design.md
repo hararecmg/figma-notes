@@ -5,6 +5,7 @@
 - Al crear un diseño simpre creamos primero la versión móvil (mobile first), y luego el diseño se expande
 ![Atras](./img/Captura%20de%20pantalla%20(287).png)
 - En móvil el diseño debe ser en columnas, con medidas relativas y con .svg en lugar de .png o .jpg
+- En móvil se crea una regla en el frame de tamaño móvil que indica la visión inicial sin hacer scrooll
 - Se usa diseño modular (cada elemento visual es un módulo que se expande en contenedores más grandes)
 ![](./img/Captura%20de%20pantalla%20(302).png)
 ![](./img/Captura%20de%20pantalla%20(303).png)
