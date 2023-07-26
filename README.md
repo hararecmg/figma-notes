@@ -92,8 +92,10 @@ Como diseñador UX de tiempo completo es súper importante que mi flujo de traba
 - Tiny Image Compressor - Si querés exportar tus diseños en PDF este plugin te lo permite
 - UI Faces - No pierdas tiempo buscando imágenes de caras, generalas de forma sencilla
 - Unsplash - Imágenes de alta calidad gratuitas sin derecho de autor
-- Espero le puedas sacar provecho a estos plugin y te sirva al menos 1 de ellos. Pero no te quedes solamente con estos, sentite libre de explorar y encontrar todos los que te gusten y creas necesarios.
+- Feather Icons (iconos)
+- Iconify (iconos)
+- Iconscout (iconos)
 
-No me agradezcas a mí por dártelos a conocer, sino a los creadores y a la gran comunidad de Figma que nos da excelentes herramientas y generalmente a cambio de nada.
+Espero le puedas sacar provecho a estos plugin y te sirva al menos 1 de ellos. Pero no te quedes solamente con estos, sentite libre de explorar y encontrar todos los que te gusten y creas necesarios. No me agradezcas a mí por dártelos a conocer, sino a los creadores y a la gran comunidad de Figma que nos da excelentes herramientas y generalmente a cambio de nada.
 
 Un abrazo enorme y nos vemos en el próximo video.
