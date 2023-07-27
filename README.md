@@ -2,8 +2,8 @@
 
 <img margin="0" padding="0" flex-grow="1" flex-shrink="0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="30" height="45" />
 
-- [Notas UI](./assets/ui.md)
-- [Notas UX](./assets/ux.md)
+- [Notas UI](./assets/ui/01-ui.md)
+- [Notas UX](./assets/ux/01-ux.md)
 
 
 ## Enfoque Pixel Perfect
@@ -80,32 +80,22 @@ Como diseñador UX de tiempo completo es súper importante que mi flujo de traba
 
 
 
-Able - Para evaluar la accesibilidad de los colores
+- Able - Para evaluar la accesibilidad de los colores
+- Blush - ilustraciones gratuitas de todo tipo
+- Brands Colors - ¿Querés saber qué colores utiliza WhatsApp? ¿Linkedln? Acá los vas a encontrar
+- Color Palettes - Hermosas paletas de colores para tus diseños
+- Feather Icons - Librería de íconos gratuitos
+- Figmiro - ¿Utilizas Miro y Figma? Sincronizá las pantallas con este mismo plugin
+- Iconify - Nunca son suficientes los íconos y este plugin sabe eso
+- Isometric - Selecciona un elemento y colocalo en un ángulo que se haga lucir
+- Material Design Icons - Un must have si diseñas aplicaciones para Android
+- Tiny Image Compressor - Si querés exportar tus diseños en PDF este plugin te lo permite
+- UI Faces - No pierdas tiempo buscando imágenes de caras, generalas de forma sencilla
+- Unsplash - Imágenes de alta calidad gratuitas sin derecho de autor
+- Feather Icons (iconos)
+- Iconify (iconos)
+- Iconscout (iconos)
 
-Blush - ilustraciones gratuitas de todo tipo
-
-Brands Colors - ¿Querés saber qué colores utiliza WhatsApp? ¿Linkedln? Acá los vas a encontrar
-
-Color Palettes - Hermosas paletas de colores para tus diseños
-
-Feather Icons - Librería de íconos gratuitos
-
-Figmiro - ¿Utilizas Miro y Figma? Sincronizá las pantallas con este mismo plugin
-
-Iconify - Nunca son suficientes los íconos y este plugin sabe eso
-
-Isometric - Selecciona un elemento y colocalo en un ángulo que se haga lucir
-
-Material Design Icons - Un must have si diseñas aplicaciones para Android
-
-Tiny Image Compressor - Si querés exportar tus diseños en PDF este plugin te lo permite
-
-UI Faces - No pierdas tiempo buscando imágenes de caras, generalas de forma sencilla
-
-Unsplash - Imágenes de alta calidad gratuitas sin derecho de autor
-
-Espero le puedas sacar provecho a estos plugin y te sirva al menos 1 de ellos. Pero no te quedes solamente con estos, sentite libre de explorar y encontrar todos los que te gusten y creas necesarios.
-
-No me agradezcas a mí por dártelos a conocer, sino a los creadores y a la gran comunidad de Figma que nos da excelentes herramientas y generalmente a cambio de nada.
+Espero le puedas sacar provecho a estos plugin y te sirva al menos 1 de ellos. Pero no te quedes solamente con estos, sentite libre de explorar y encontrar todos los que te gusten y creas necesarios. No me agradezcas a mí por dártelos a conocer, sino a los creadores y a la gran comunidad de Figma que nos da excelentes herramientas y generalmente a cambio de nada.
 
 Un abrazo enorme y nos vemos en el próximo video.
