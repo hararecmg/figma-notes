@@ -11,6 +11,7 @@
 En el plan gratuito se puede tener varios equipos, pero un solo proyecto (dentro de cualquier equipo) con 3 archivos de figma y 3 archivos de figjam.
 La parte del centro se llama canvas, la parte derecha es el panel de propiedades (tiene frames para dispositivos especificos y personalizados)
 
+#### Archivos .fig
 - Mostrartodos los atajos: `Ctrl+Shift+?`
 - Crear rectángulo: `r`
 - Crear linea: `l`
