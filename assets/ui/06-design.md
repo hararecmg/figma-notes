@@ -40,9 +40,64 @@
 ![](./img/Captura%20de%20pantalla%20(300).png)
 ![](./img/Captura%20de%20pantalla%20(301).png)
 
+
 https://openwebinars.net/blog/diferencias-entre-px-dp-y-sp-en-android/
 
 https://www.somoswaka.com/blog/2017/11/que-son-los-dp-diseno-ui-dispositivos-tactiles/
 
 https://www.altova.com/manual/es/MobileTogether/mobiletogetherdesigner/mtdobjsfeatures_sizes.html
 
+#### Fidelidades del diseño
+- Fidelidad baja (lo realizan UX, y se recomienda hacer en lapiz y papel)
+- Fidelidad media - wireframes (lo realizan UX/UI, y ya debería intentar acercarse al diseño final)
+  - Es un standart usar rectángulos con tache para indicar imagenes
+- Fidelidad alta - prototipo (lo realizan UI)
+  - Los iPhone tienen 18px de margen horizontal
+![](./img/Captura%20de%20pantalla%20(348).png)
+
+- Lista de dispositivos usados en America-Latina
+  - #### Móviles más usados
+  - Samsung Galaxy A13	15%
+  - Samsung Galaxy A33	12%
+  - Samsung Galaxy A53	10%
+  - Samsung Galaxy A73	8%
+  - Apple iPhone 13	7%
+  - Apple iPhone 13 Pro	6%
+  - Apple iPhone 13 Pro Max	5%
+  - Xiaomi Redmi Note 11	4%
+  - Xiaomi Redmi 11	3%
+  - Motorola Moto G22	2%
+  - Motorola Moto G32	1%
+  - Realme 9	1%
+  - Realme 9 Pro	1%
+  - OPPO A76	1%
+  - OPPO A96	1%
+  - Poco X4 Pro 5G	1%
+  - Poco M4 Pro 5G	1%
+  - Infinix Note 11 Pro	1%
+  - Infinix Hot 11S	1%
+  - Tecno Pova 3	1%
+  - Tecno Spark 8P	1%
+  - #### Móviles menos usados
+  - Samsung Galaxy A03s	0.5%
+  - Samsung Galaxy A23	0.4%
+  - Samsung Galaxy A43	0.3%
+  - Samsung Galaxy A52s	0.2%
+  - Samsung Galaxy A72	0.1%
+  - Apple iPhone 12	0.1%
+  - Apple iPhone 12 Pro	0.05%
+  - Apple iPhone 12 Pro Max	0.05%
+  - Xiaomi Redmi Note 10	0.05%
+  - Xiaomi Redmi 10	0.05%
+  - Motorola Moto G52	0.05%
+  - Motorola Moto G62	0.05%
+  - Realme 9i	0.05%
+  - Realme 9 Pro+	0.05%
+  - OPPO A55	0.05%
+  - OPPO A75	0.05%
+  - Poco X3 Pro	0.05%
+  - Poco M3 Pro 5G	0.05%
+  - Infinix Note 10 Pro	0.05%
+  - Infinix Hot 11S	0.05%
+  - Tecno Pova 2	0.05%
+  - Tecno Spark 8	0.05%
