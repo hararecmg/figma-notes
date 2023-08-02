@@ -1,0 +1,28 @@
+[Atras](./01-ux.md)
+
+## Idear
+![generar ideas](./img/Captura%20de%20pantalla%20(488).png)
+- Lluvia de ideas
+![generar ideas](./img/Captura%20de%20pantalla%20(490).png)
+![generar ideas](./img/Captura%20de%20pantalla%20(491).png)
+![generar ideas](./img/Captura%20de%20pantalla%20(492).png)
+- Metodología
+![generar ideas](./img/Captura%20de%20pantalla%20(493).png)
+![generar ideas](./img/Captura%20de%20pantalla%20(494).png)
+![generar ideas](./img/Captura%20de%20pantalla%20(495).png)
+![generar ideas](./img/Captura%20de%20pantalla%20(496).png)
+![generar ideas](./img/Captura%20de%20pantalla%20(497).png)
+![generar ideas](./img/Captura%20de%20pantalla%20(498).png)
+![generar ideas](./img/Captura%20de%20pantalla%20(501).png)
+![generar ideas](./img/Captura%20de%20pantalla%20(502).png)
+![generar ideas](./img/Captura%20de%20pantalla%20(503).png)
+![generar ideas](./img/Captura%20de%20pantalla%20(504).png)
+![generar ideas](./img/Captura%20de%20pantalla%20(505).png)
+![generar ideas](./img/Captura%20de%20pantalla%20(506).png)
+![generar ideas](./img/Captura%20de%20pantalla%20(507).png)
+![generar ideas](./img/Captura%20de%20pantalla%20(508).png)
+![generar ideas](./img/Captura%20de%20pantalla%20(509).png)
+![generar ideas](./img/Captura%20de%20pantalla%20(510).png)
+![generar ideas](./img/Captura%20de%20pantalla%20(511).png)
+![generar ideas](./img/Captura%20de%20pantalla%20(512).png)
+![generar ideas](./img/Captura%20de%20pantalla%20(513).png)

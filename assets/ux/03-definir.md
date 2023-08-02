@@ -1,7 +1,6 @@
 [Atras](./01-ux.md)
 
 ## Definir
-#### Estes es el paso 2/5 de Design Thinking
 ![definir](./img/Captura%20de%20pantalla%20(456).png)
 
 - UX Persona
