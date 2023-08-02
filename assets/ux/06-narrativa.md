@@ -1,0 +1,10 @@
+[Atras](./01-ux.md)
+
+## Narrativa (Propuest de Valor)
+![narrativa](./img/Captura%20de%20pantalla%20(520).png)
+![narrativa](./img/Captura%20de%20pantalla%20(521).png)
+![narrativa](./img/Captura%20de%20pantalla%20(522).png)
+![narrativa](./img/Captura%20de%20pantalla%20(523).png)
+![narrativa](./img/Captura%20de%20pantalla%20(524).png)
+![narrativa](./img/Captura%20de%20pantalla%20(525).png)
+![narrativa](./img/Captura%20de%20pantalla%20(526).png)

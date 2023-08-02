@@ -99,4 +99,18 @@ Como diseñador UX de tiempo completo es súper importante que mi flujo de traba
 
 Espero le puedas sacar provecho a estos plugin y te sirva al menos 1 de ellos. Pero no te quedes solamente con estos, sentite libre de explorar y encontrar todos los que te gusten y creas necesarios. No me agradezcas a mí por dártelos a conocer, sino a los creadores y a la gran comunidad de Figma que nos da excelentes herramientas y generalmente a cambio de nada.
 
-Un abrazo enorme y nos vemos en el próximo video.
+
+## Portfolios UI/UX
+- https://www.cassie.codes/
+- https://jhey.dev/
+- https://lynnandtonic.com/
+- https://www.jason.af/
+- https://olaolu.dev/
+- https://mxb.dev/
+- https://tobiasahlin.com/
+- https://keegan.codes/
+- https://caferati.me/
+- https://brittanychiang.com/
+- https://mattfarley.ca/
+- https://www.rahularora.dev/
+- https://alvarotrigo.com/
