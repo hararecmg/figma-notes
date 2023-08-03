@@ -5,6 +5,8 @@
 - [Notas UI](./assets/ui/01-ui.md)
 - [Notas UX](./assets/ux/01-ux.md)
 
+![website](./assets/Captura%20de%20pantalla%20(603).png)
+
 
 ## Enfoque Pixel Perfect
 ## Keyboard Shortcuts Figma

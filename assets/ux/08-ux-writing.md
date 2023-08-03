@@ -3,6 +3,8 @@
 <div style="width: 100px; height: 100px; background-color: #6495ed;"></div>
 <div style="width: 100px; height: 100px; background-color: #00bfff;"></div>
 <div style="width: 100px; height: 100px; background-color: #00ffbf;"></div>
+<div style="width: 100px; height: 100px; background-color: #4fb6af;"></div>
+<div style="width: 100px; height: 100px; background-color: #57a4a0;"></div>
 
 ## UX Writing
 - Agregar texto lorem ipsum puede romper el diseño, es mejor agregar contenido real
